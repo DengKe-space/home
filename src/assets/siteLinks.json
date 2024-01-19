@@ -1,37 +1,57 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "DK影视",
+    "link": "https://ys.dk616.cn/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "私人TV",
+    "link": "https://mv.dk616.cn/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "ChatGPT-Next",
+    "link": "https://gpt.dk616.cn/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "bing",
+    "link": "https://bing.dengke616.link/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "阅读",
+    "link": "https://yd.dk616.cn/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "文件保险柜",
+    "link": "https://sc.dk616.cn/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "H5小游戏",
+    "link": "https://h5.dk616.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "ChatGPT",
+    "link": "https://ai.dk616.cn/"
+  },
+  {
+    "icon": "Blog",
+    "name": "海报墙",
+    "link": "https://tv.dk616.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "qB下载",
+    "link": "https://xz.dk616.cn/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今天吃什么？",
+    "link": "https://tq.dk616.cn/"
   }
 ]
